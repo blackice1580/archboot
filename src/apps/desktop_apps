@@ -51,6 +51,9 @@ export I3="i3"
 # xmonad
 export XMONAD="xmonad xmonad-contrib"
 
+# sway
+export SWAY="sway"
+
 #                         REQUIRED PACKAGES
 # ============================================================================
 
