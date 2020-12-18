@@ -61,6 +61,9 @@ export SWAY="sway"
 export XORG="xorg-server"
 export XORG_XINIT="xorg-xinit"
 
+# Wayland
+export SWAY_APPS="alacritty dmenu grim i3status mako slurp swayidle swaylock waybar xorg-server-xwayland"
+
 # Numlock
 export NUMLOCK="numlockx"
 
